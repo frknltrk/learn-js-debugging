@@ -1,5 +1,5 @@
 # Debugging in JavaScript
-## Resources
+## Learn
 - https://launchschool.com/exercises#js210_javascript_language_fundamentals
 - https://gist.github.com/MarkBennett/1629116
 
