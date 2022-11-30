@@ -9,3 +9,6 @@
 - https://github.com/DevMountain/debugging-exercises
 - https://github.com/CodeYourFuture/debugging-js-exercises REF: [CodeYourFuture - Debugging](https://codeyourfuture.github.io/syllabus-london/js-core-2/debugging.html)
 - https://github.com/jrmykolyn/debugging-practice
+
+## Extra
+- [How to use the Debugger in VSCode to debug Node.js Applications - YouTube](https://youtube.com/watch?v=qz68RsESlp8)
