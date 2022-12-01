@@ -1,7 +1,10 @@
 # Debugging in JavaScript
 ## Learn
+- https://www.w3schools.com/js
 - https://launchschool.com/exercises#js210_javascript_language_fundamentals
 - https://gist.github.com/MarkBennett/1629116
+- https://www.dummies.com/article/technology/programming-web-design/javascript/10-common-javascript-bugs-and-how-to-avoid-them-142585/
+- https://www.dummies.com/article/technology/programming-web-design/general-programming-web-design/top-10-common-javascript-error-messages-254151/
 
 ## Practice
 - https://github.com/BurlingtonCodeAcademy/bug-hunts
